@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: Politica-Privacidade.html
-Disallow: Termos-de-uso.html
-Disallow: /politica de privacidade/
-Disallow: /termos de uso/
-
-Sitemap: https://www.globalforense.com/sitemap.xml
